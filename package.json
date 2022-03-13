@@ -1,0 +1,23 @@
+{
+  "name": "war-game",
+  "version": "1.0.0",
+  "description": "\"# Week-6-war-Game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahDCarlos/Week-6-war-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahDCarlos/Week-6-war-Game/issues"
+  },
+  "homepage": "https://github.com/SarahDCarlos/Week-6-war-Game#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.1"
+  }
+}
